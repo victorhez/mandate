@@ -6,6 +6,8 @@ Mandate is a non-custodial payment vault on [Arbitrum](https://arbitrum.io) that
 
 > Built for [Arbitrum Open House Singapore](https://openhouse.arbitrum.io/), Online Buildathon, 2026.
 
+**Live app:** https://mandate-arbitrum.vercel.app &nbsp;·&nbsp; **Vault on Arbiscan:** [0x6Ef2…7D98](https://sepolia.arbiscan.io/address/0x6Ef26EA309C444942ae2af1C692D168c72097D98)
+
 ---
 
 ## The problem
