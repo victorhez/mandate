@@ -1,0 +1,9 @@
+node_modules
+artifacts
+cache
+typechain-types
+coverage
+.env
+web/dist
+web/node_modules
+web/.env*.local
